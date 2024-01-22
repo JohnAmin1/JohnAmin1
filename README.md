@@ -1,4 +1,4 @@
- #HELLO 👋
+ # HELLO 👋
 - 👋 Hi, I’m @JohnAmin1
 - 👀 I’m interested in ... Playing Sports, Video games, Going Out With Friends, 
 - 🌱 I’m currently learning ... Coding & Desinging
