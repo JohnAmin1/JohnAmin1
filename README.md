@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ... Getting Better At Coding
 - 📫 How to reach me ... jamin3333@icloud.com
 - 😄 Pronouns: ... He/Him
-- https://img.shields.io/badge/MyNameIsJohn
+
 
   
 <!---
