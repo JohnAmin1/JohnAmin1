@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning ... Coding & Desinging
 - 📫 How to reach me ... jamin3333@icloud.com
 - 😄 Pronouns: ... He/Him
+- 🗣️ i also speak diffrent languages
 
 
   
